@@ -1,5 +1,7 @@
 # 💫 About Me:
-🌱 I’m currently learning<br>
+Analista / Programador en el sector TI, con experiencia en mantenimiento y resolución de incidencias de aplicaciones backend. Destaco por aprender y adaptarme rápidamente a nuevos lenguajes, librerías y herramientas, y por afrontar con eficacia la resolución de incidencias y la implementación de mejoras. He trabajado en la documentación técnica de componentes de proyectos y en pruebas funcionales, incluyendo pruebas de regresión para garantizar la estabilidad de las aplicaciones. Utilizo herramientas de control de versiones y despliegue como SourceTree, GitLab, Jenkins y Portainer, así como asistencia de IA mediante GitHub Copilot.
+
+Domino una amplia variedad de lenguajes y tecnologías, incluyendo Java y Javascript (SAPUI, Hibernate, JPA), C++, C#, Kotlin (Jetpack Compose), Python, HTML5, CSS3, SQL (PostgreSQL, Oracle, MySQL, SQLite), .NET, XAML, Firebase (autenticación de usuarios) y Bootstrap. He utilizado IDEs como Visual Studio Code, NetBeans, Eclipse, IntelliJ y Visual Studio Community, y tengo experiencia práctica con Unity y Blender para desarrollo de videojuegos y modelado 3D. Mi capacidad de adaptación, aprendizaje rápido y versatilidad técnica me permiten integrarme eficientemente en ciclos de trabajo de incidencias, pruebas y despliegues, aportando valor inmediato a cualquier proyecto<br>
 
 
 ## 🌐 Socials:
